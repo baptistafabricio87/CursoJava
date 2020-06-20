@@ -1,0 +1,13 @@
+run:
+Enter the measure of triangle X: 
+3
+4
+5
+Enter the measure of triangle Y: 
+7.50
+4.50
+4.02
+Triangle X area 6.0000
+Triangle Y area 7.5638
+Larger area: Y
+BUILD SUCCESSFUL (total time: 18 seconds)
